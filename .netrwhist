@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/rd/src/git/ar1102/fonsee_files/watchWL_st'
+let g:netrw_dirhist_2='/home/rd/src/git/ar1102/fonsee_files/eki6351led'
+let g:netrw_dirhist_3='/home/rd/src/git/ar1102/fonsee_files'
+let g:netrw_dirhist_4='/home/rd/src/git/ar1102/fonsee_files/wlanapi'
